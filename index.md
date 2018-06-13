@@ -1,5 +1,6 @@
 ## Support
 
-**Email:** reuben.catchpole@gmail.com.
-**Discord:** OlympusDev#9974.
+**Email:** reuben.catchpole@gmail.com
+
+**Discord:** OlympusDev#9974
 
